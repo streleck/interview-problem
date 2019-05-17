@@ -1,0 +1,83 @@
+{
+  "exampleLeads": [{
+    "leadId": 2232,
+    "firstName": "Zeno",
+    "lastName": "Contrarian",
+    "phone": "333-333-3333",
+    "email": "zeno@vortex.net",
+    "yearsExperience": 3,
+    "subjects": [
+      {
+        "subject": "Math",
+        "levels": ["Algebra", "Geometry", "Pre-Calculus"],
+        "experience": 3,
+        "preference": 2
+      },
+      {
+        "subject": "History",
+        "levels": ["World History", "US History", "AP US History"],
+        "experience": 0,
+        "preference": 10
+      }
+    ],
+    "certifications": ["Positive Behavior Interventions and Supports"],
+    "currentSalary": 44000,
+    "desiredSalary": 50000,
+    "avgClssSize": 35.5,
+    "statement": "I'd love to teach World History in smaller classes than I have right now."
+  }],
+  "exampleCustomers": [{
+    "customerId": 175,
+    "school": "Austin High",
+    "district": "AISD",
+    "contactPerson": "Clara LaPlace",
+    "phone": "512-444-4444",
+    "email": "laplace.c@austinhigh.edu",
+    "startingSalary": 46000,
+    "avgSalary": 50000,
+    "subjectsNeeded": [
+      {
+        "subject": "History",
+        "levels": ["World History"]
+      },
+      {
+        "subject": "Math",
+        "levels": ["Calculus", "Advanced Calculus"]
+      }
+    ],
+    "schooldRating": 8.8,
+    "avgClassSize": 31.3,
+    "notes": [
+      "Looking for subject fit over years of experience."
+    ]
+  }],
+  "exampleFormData": [{
+    "formId": 4563,
+    "leadId": 2232,
+    "submittedAt": 1558130406,
+    "firstName": "Zeno",
+    "lastName": "Contrarian",
+    "phone": "333-333-3333",
+    "email": "zeno@vortex.net",
+    "yearsExperience": 3,
+    "subjects": [
+      {
+        "subject": "Math",
+        "levels": ["Algebra", "Geometry", "Pre-Calculus"],
+        "experience": 3,
+        "preference": 2
+      },
+      {
+        "subject": "History",
+        "levels": ["World History", "US History", "AP US History"],
+        "experience": 0,
+        "preference": 10
+      }
+    ],
+    "certifications": ["Positive Behavior Interventions and Supports"],
+    "currentSalary": 44000,
+    "desiredSalary": 50000,
+    "avgClssSize": 35.5,
+    "statement": "I'd love to teach World History in smaller classes than I have right now."
+  }]
+}
